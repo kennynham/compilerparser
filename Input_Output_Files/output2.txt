@@ -1,0 +1,64 @@
+$                                                 prog                
+$Pg.                                              prog                
+$                                                 prog                
+$}.                                               prog                
+$}.SL.                                            prog                
+$}.SL.{.                                          prog                
+$}.SL.{.kp.                                       prog                
+$}.SL.{.                                          {                   
+$}.SL.                                            pi                  
+$}.                                               pi                  
+$}.SL.                                            pi                  
+$}.SL.;.                                          pi                  
+$}.SL.;.S.                                        pi                  
+$}.SL.;.                                          pi                  
+$}.SL.;.Y1.                                       pi                  
+$}.SL.;.Y1.=.                                     pi                  
+$}.SL.;.Y1.=.id.                                  pi                  
+$}.SL.;.Y1.=.                                     =                   
+$}.SL.;.Y1.                                       3.14                
+$}.SL.;.                                          3.14                
+$}.SL.;.E                                         3.14                
+$}.SL.;.                                          3.14                
+$}.SL.;.X1.                                       3.14                
+$}.SL.;.X1.T.                                     3.14                
+$}.SL.;.X1.                                       3.14                
+$}.SL.;.X1.X2.                                    3.14                
+$}.SL.;.X1.X2.F.                                  3.14                
+$}.SL.;.X1.X2.                                    3.14                
+$}.SL.;.X1.X2.Fa.                                 3.14                
+$}.SL.;.X1.X2.                                    3.14                
+$}.SL.;.X1.X2.fl.                                 3.14                
+$}.SL.;.X1.X2.                                    ;                   
+$}.SL.;.X1.                                       ;                   
+$}.SL.;.                                          ;                   
+$}.SL.                                            print               
+$}.                                               print               
+$}.SL.                                            print               
+$}.SL.;.                                          print               
+$}.SL.;.S.                                        print               
+$}.SL.;.                                          print               
+$}.SL.;.SO.                                       print               
+$}.SL.;.                                          print               
+$}.SL.;.).                                        print               
+$}.SL.;.).EL.                                     print               
+$}.SL.;.).EL.(.                                   print               
+$}.SL.;.).EL.(.ko.                                print               
+$}.SL.;.).EL.(.                                   (                   
+$}.SL.;.).EL.                                     Input radius>       
+$}.SL.;.).                                        Input radius>       
+$}.SL.;.).E2.                                     Input radius>       
+$}.SL.;.).E2.E                                    Input radius>       
+$}.SL.;.).E2.                                     Input radius>       
+$}.SL.;.).E2.X1.                                  Input radius>       
+$}.SL.;.).E2.X1.T.                                Input radius>       
+$}.SL.;.).E2.X1.                                  Input radius>       
+$}.SL.;.).E2.X1.X2.                               Input radius>       
+$}.SL.;.).E2.X1.X2.F.                             Input radius>       
+$}.SL.;.).E2.X1.X2.                               Input radius>       
+$}.SL.;.).E2.X1.X2.Fa.                            Input radius>       
+$}.SL.;.).E2.X1.X2.                               Input radius>       
+$}.SL.;.).E2.X1.X2.st.                            Input radius>       
+$}.SL.;.).E2.X1.X2.                               )                   
+$}.SL.;.).E2.X1.                                  )                   
+$}.SL.;.).E2.                                     )                   
